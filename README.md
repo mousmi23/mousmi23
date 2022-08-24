@@ -1,8 +1,9 @@
 
 
+[![MasterHead](https://studio.uxpincdn.com/studio/wp-content/uploads/2020/12/7-Best-Reasons-To-Use-React.js-Components-In-Your-Project-1024x512.png.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mousmi kundu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right alt="coding" width="400" src="https://pbs.twimg.com/profile_images/1325796904312082433/rXdk-G67_400x400.jpg"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousmi23&label=Profile%20views&color=0e75b6&style=flat" alt="mousmi23" /> </p>
 
