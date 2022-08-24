@@ -1,8 +1,8 @@
 
-[![MasterHead](https://www.thinkwik.com/public/images/technology/android/banner.jpg)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*KN7zbaWkbm5E71zZWfTf7A.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mousmi kundu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right alt="coding" width="400" src="https://c.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif"
+<img align="right alt="coding" width="400" src="https://pbs.twimg.com/profile_images/1325796904312082433/rXdk-G67_400x400.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mousmi23&label=Profile%20views&color=0e75b6&style=flat" alt="mousmi23" /> </p>
 
