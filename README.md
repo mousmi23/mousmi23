@@ -1,5 +1,5 @@
 
-[![MasterHead](https://miro.medium.com/max/1400/1*KN7zbaWkbm5E71zZWfTf7A.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Mousmi kundu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right alt="coding" width="400" src="https://pbs.twimg.com/profile_images/1325796904312082433/rXdk-G67_400x400.jpg"
